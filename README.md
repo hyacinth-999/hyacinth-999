@@ -3,8 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF4C4C&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Offensive+Mindset;Security+Research+%26+System+Analysis;Learning+by+Breaking+and+Building" alt="Typing SVG" />
 </p>
-<br>
-![snake gif](https://github.com/hyacinth-999/hyacinth-999/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 🌐 Socials:
